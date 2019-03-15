@@ -72,8 +72,8 @@ article a {
 }
 
 #merch img{
-    height: 550px;
-    width: 550px;
+    height: 40vh;
+    width: auto;
 }
 
 #merch p {
