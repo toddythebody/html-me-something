@@ -23,13 +23,12 @@ nav {
     background-color: black;
     position: relative;
     top: -15px;
-    border-radius: 10px
+    border-radius: 10px;
 }
 
 nav li {
     display: inline-block;
     font-size: 3vw;
-    margin: 0 1%;
     background-color: white;
     border: 2px solid black;
     border-radius: 10px;
@@ -94,7 +93,7 @@ article a {
 
 #submit h1 {
     text-align: center;
-    font-size: 600%;
+    font-size: 3vw;
 }
 
 footer {
